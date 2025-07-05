@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
 <div align="center">
 <h1>Google Play Store Analysis</h1>
-<h2>Day 74: Data Science & Data Processing</h2>
+<h2>Day 76: Data Science & Data Processing</h2>
 <i><h3>Udemy Course "100 Days of Code: The Complete Python Pro Bootcamp"</h3></i>
 </div>
 <hr>
